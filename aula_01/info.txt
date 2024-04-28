@@ -1,0 +1,43 @@
+doctype = define a versão do html
+
+html = tag de abertura do hypertext markup language
+ - lang: indica a língua da página
+
+head = cabeça da página, onde ficam os metadados (informações da página)
+
+meta = serve para armazenar metadados
+ - charset: decodificação
+ - viewport: visualização do mobile
+
+title = título da página
+
+body = É o corpo da página, onde todos os elementos HTML vão ficar
+
+form = formulário
+
+input = campo de um formulário que o usuário deve informar determinado tipo de dado.
+ - name: varíavel que vai armazenar o valor do input na hora que for feita a requisição (deve ser tratada com linguagens back-end ou javascript)
+ - placeholder: texto indicativo
+ - type: qual será o tipo do input
+
+a = âncora (link para outras páginas, sejam internas ou externas)
+ - href: Indica o diretório/caminho em que está o arquivo
+
+nav = elemento container que serve para criar elementos navegáveis como menus, barras suspensas etc
+
+hx (do 1 até 6 - heading): títulos
+p (paragraph): parágrafos
+
+ul: lista não ordenada
+
+li: item da lista
+
+section: seção (abriga outros elementos)
+
+article: artigo, sendo um container para textos
+
+small: texto pequeno
+
+img: imagem
+ - src: caminho ou diretório da imagem
+ - alt: atributo para que os leitores de tela possa descrever a imagem para pessoas sem visão.
